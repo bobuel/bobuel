@@ -2,9 +2,9 @@
 
 Design is the premium.
 
-At Automattic, I joined AI Enablement as its first dedicated hire. As AI Adoption Manager, I help people change work they own, turn useful methods into tools and guidance others can use, and keep access and support working across an AI environment serving 1,500 employees.
+At Automattic, I joined AI Enablement as its first dedicated hire. As AI Adoption Manager, I help people change work they own, make their methods usable by their teams, and keep the tools and support behind them working. I also help shape internal tools from employee needs and market patterns across an AI environment serving 1,500 employees.
 
-I independently led the first hybrid Growth cohort, shipped a workshop tool another facilitator used, and helped launch 19 AI Guides. The [Automattic case study](https://aydoon.com/case-studies/enterprise-ai-adoption-automattic) shows how enablement, product work, and operations fit together.
+I led the first hybrid Growth cohort, built a workshop tool another facilitator used, and helped launch 19 AI Guides. The [Automattic case study](https://aydoon.com/case-studies/enterprise-ai-adoption-automattic) shows the work behind those results.
 
 [Website](https://aydoon.com/) · [LinkedIn](https://www.linkedin.com/in/aaidun/) · [Email](mailto:bobuel@gmail.com)
 
