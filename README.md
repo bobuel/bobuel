@@ -13,5 +13,4 @@ Before Automattic, I was Senior AI Product Manager and Director of Education & D
 ## Projects
 
 - [Bloom Quiz Builder](https://github.com/bobuel/bloom-taxonomy-quiz-builder-skill) — source-grounded assessment with teacher review.
-- [retrieval-guard](https://github.com/bobuel/retrieval-guard) — an experimental tool for catching retrieval regressions and near misses.
 - [Brassline](https://bobuel.github.io/brassline/) — a train-heist tactical autobattler.
