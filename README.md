@@ -13,7 +13,7 @@ Before Automattic, I was Senior AI Product Manager and Director of Education & D
 ## Projects
 
 - [Bloom Quiz Builder](https://github.com/bobuel/bloom-taxonomy-quiz-builder-skill) — source-grounded assessment with teacher review.
+- [Iron Hand: Sector 13](https://bobuel.github.io/ironhand-rpg/) — a playable cyberpunk RPG with poker combat and a 13-chapter campaign.
 - [Brassline](https://bobuel.github.io/brassline/) — a train-heist tactical autobattler.
-- [Iron Hand: Sector 13](https://bobuel.github.io/ironhand-rpg/) — a cyberpunk RPG with poker combat and a 13-chapter campaign.
 
 These are selected projects. See [more builds](https://aydoon.com/builds) and [all public repositories](https://github.com/bobuel?tab=repositories), or [contact me](mailto:bobuel@gmail.com) to ask about other work.
