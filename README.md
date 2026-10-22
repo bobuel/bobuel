@@ -2,11 +2,11 @@
 
 Design is the premium.
 
-I design internal AI tools and help teams put them to work. As AI Lab & Adoption Manager at Automattic, I work with the team on coding-agent rollouts, AI spending controls, and approvals.
+I design and build tools, workflows, and games, and help people put AI to work. My work connects product design, hands-on building, and teaching: understanding a real task, making something useful, and helping others use and adapt it.
 
-I led the first hybrid Growth cohort, built a workshop tool another facilitator used, and helped launch 19 AI Guides. [Read the Automattic case study](https://aydoon.com/case-studies/enterprise-ai-adoption-automattic).
+I care about clear design, practical usefulness, and systems that people can understand and build on.
 
-Previously at Dremio, I led education and documentation and scoped four AI initiatives with Design and Engineering. [Read the Dremio case study](https://aydoon.com/case-studies/ai-product-leadership-dremio).
+Selected work: [AI tools and adoption at Automattic](https://aydoon.com/case-studies/enterprise-ai-adoption-automattic) · [AI product leadership at Dremio](https://aydoon.com/case-studies/ai-product-leadership-dremio).
 
 [Website](https://aydoon.com/) · [LinkedIn](https://www.linkedin.com/in/aaidun/) · [Email](mailto:bobuel@gmail.com)
 
