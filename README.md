@@ -1,10 +1,10 @@
 # Alex Aidun
 
-Design is the premium.
+I make complex systems easier to use. I design tools and workflows, help people put AI to work, and build games to explore ideas.
 
-I design and build tools, workflows, and games, and help people put AI to work. My work connects product design, hands-on building, and teaching: understanding a real task, making something useful, and helping others use and adapt it.
+I start with a real task, build something others can reuse, and change the tools when they get in the way. I care about what we choose to build and whether it helps people do the work.
 
-I care about clear design, practical usefulness, and systems that people can understand and build on.
+**Design is the premium.**
 
 Selected work: [AI tools and adoption at Automattic](https://aydoon.com/case-studies/enterprise-ai-adoption-automattic) · [AI product leadership at Dremio](https://aydoon.com/case-studies/ai-product-leadership-dremio).
 
