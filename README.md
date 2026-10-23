@@ -10,9 +10,17 @@ Selected work: [AI tools and adoption at Automattic](https://aydoon.com/case-stu
 
 [Website](https://aydoon.com/) · [LinkedIn](https://www.linkedin.com/in/aaidun/) · [Email](mailto:bobuel@gmail.com)
 
-## Projects
+## Plugins for real work
 
-- [Eventer](https://github.com/bobuel/eventer-plugin) — an open-source event-planning plugin with twelve skills, local records, and inspectable examples. Published evaluation uses synthetic events; installation was checked in Codex and Claude Code. [See the workflow](https://aydoon.com/case-studies/eventer-planning-workflow).
+I turn domain knowledge into reusable workflows for the AI assistant you already use. These open-source plugins keep the work in local files, connect decisions to evidence, and carry a project forward as things change.
+
+- **[Certification Workshop](https://github.com/bobuel/certification-workshop)** — build a certification from source material and job tasks, develop questions and practical exercises, work through review and pilot evidence, and maintain the program as the product changes. Ten skills, a published v1 release, and a complete fictional example to inspect. [Read the case](https://aydoon.com/case-studies/certification-workshop).
+- **[Eventer](https://github.com/bobuel/eventer-plugin)** — plan a group trip, retreat, or weekend, keeping guests, rooms, meals, rides, and follow-through aligned as plans change. Twelve skills and worked examples; installation checked in Codex and Claude Code. [Read the case](https://aydoon.com/case-studies/eventer-planning-workflow).
+
+Both repositories include tests and evaluation artifacts. Their examples use synthetic data; the published records distinguish those checks from real-world use.
+
+## More projects
+
 - [Iron Hand: Sector 13](https://bobuel.github.io/ironhand-rpg/) — a playable cyberpunk RPG with poker combat and a 13-chapter campaign.
 - [Model advisor](https://github.com/bobuel/model-advisor) — a local research prototype for task-aware model recommendations and evaluation; public hosting is on hold.
 
