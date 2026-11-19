@@ -28,7 +28,6 @@ Selected work: [AI tools and adoption at Automattic](https://aydoon.com/case-stu
 ## Games
 
 - **[Iron Hand: Sector 13](https://bobuel.github.io/ironhand-rpg/)** — a playable cyberpunk RPG with poker combat and a 13-chapter campaign.
-- **[Brassline](https://github.com/bobuel/brassline)** — a free steampunk train-heist tactical autobattler. [Play](https://bobuel.github.io/brassline/).
 - **[Manymade](https://github.com/bobuel/manymade)** — a browser RPG prototype with branching character builds; the larger campaign is still in development.
 
 [Browse games →](https://aydoon.com/games)
